@@ -16,6 +16,7 @@ console.log(accountID);
 Prefer not to use var
 Beacuse of issue in block scope and functional scope
 */
+
 console.log(accountEmail);
 console.log(accountPassword);
 console.log(accountCity);
